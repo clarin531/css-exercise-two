@@ -13,7 +13,7 @@ nav {
 }
 
 figcaption{
-  font-size: 12px;
+  font-size: 0.6em;
 }
 
 h1{
@@ -24,7 +24,7 @@ h1{
 
 h3{
   color: rgba(108, 122, 137, 1);
-  font-size: 20px;
+  font-size: 1em;
 }
 p{margin: 20px 0px 10px 0px;}
 
@@ -34,8 +34,8 @@ p{margin: 20px 0px 10px 0px;}
 }
 
 .logo {
-  margin: 20px;
-  width: 100px;
+  margin: 3%;
+  width: 15%;
 }
 
 .large-pic {
@@ -62,7 +62,7 @@ ul {
 
 li {
   float: right;
-  padding: 30px;
+  padding: 4%;
 
 }
 a{
@@ -75,8 +75,6 @@ a:hover{color:#FFFFFF;}
 article {
   padding-top: 100px;
 }
-
-
 
 .container {
   margin: 0 auto;
